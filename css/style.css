@@ -869,7 +869,7 @@ a:focus {
     justify-content: center;
     align-items: center;
     flex-flow: column;
-    padding: 30px 150px;
+    /* padding: 30px 150px; */
 }
 
 .containerFoto{
